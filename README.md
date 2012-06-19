@@ -28,6 +28,6 @@ Unfortunately most big well-know sites fall into the latter category and
 thus don't work.  Try smaller sites like personal website or local businesses.
 Here are a few that I found to work decently:
 
-www.gnu.org
-www.cdc.gov
-www.suninmybelly.com
+www.gnu.org  
+www.cdc.gov  
+www.suninmybelly.com  
